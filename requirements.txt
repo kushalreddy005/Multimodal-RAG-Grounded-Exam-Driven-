@@ -1,0 +1,6 @@
+streamlit
+pymupdf
+torch
+transformers
+chromadb
+pillow
